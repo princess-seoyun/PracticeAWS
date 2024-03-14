@@ -1,0 +1,17 @@
+.list-container {
+    margin-top: 20px;
+}
+
+.list-item {
+    list-style: none;
+}
+
+.list-button {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
